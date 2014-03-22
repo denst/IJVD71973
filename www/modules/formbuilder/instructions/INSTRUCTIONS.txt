@@ -1,0 +1,67 @@
+Уствновка модуля:
+1. Добавить модуль в список модулей в файле application/bootstrap.php
+	'formbuilder' => MODPATH.'formbuilder',
+
+(примерно место
+	'auth'       => MODPATH.'auth',       // Basic authentication
+            'profilertoolbar' => MODPATH.'profilertoolbar',
+	// 'cache'      => MODPATH.'cache',      // Caching with multiple backends
+	// 'codebench'  => MODPATH.'codebench',  // Benchmarking tool
+	'database'   => MODPATH.'database',   // Database access
+	'image'      => MODPATH.'image',      // Image manipulation
+	'orm'        => MODPATH.'orm',        // Object Relationship Mapping
+	// 'unittest'   => MODPATH.'unittest',   // Unit testing
+	// 'userguide'  => MODPATH.'userguide',  // User guide and API documentation
+	'message'    => MODPATH.'message',
+	'email'      => MODPATH.'email',
+	'pagination' => MODPATH.'pagination',
+	'captcha'    => MODPATH.'captcha',
+	'tkoauth'    => MODPATH.'tkoauth',
+	'phpexcel'	 => MODPATH.'phpexcel',
+	'mpdf'	 	 => MODPATH.'mpdf',
+	'formbuilder'	 	 => MODPATH.'formbuilder',
+	));
+)
+
+2. Добавить пункты меню в админку, для этого вставить в файле /application/classes/controller/admin.php вставить код
+ $_controllers = array(
+
+            "Страницы" => "pages",
+            "Новости" => "news",
+            'HR клуб' => 'hrusers',
+            'Запросы' => 'requests',
+            'Прочее' => array(
+                "Клиенты" => "clients",
+                "Настройки" => "options",
+                'Ротатор баннеров' => 'bannersrotator',
+                "Пользователи" => "users",
+            ),
+
+            'Конверсия' => array(
+                "Сгенерировать форму" => "formbuilder",
+                "Формы конверсии" => "conversion",
+            ),
+
+	// "HR клуб" . ' <sup>'.$count.'</sup>' => "hrusers",
+        );
+
+3. Для вывода сообщений с модуля в файле /application/views/common/static/index.php вставить код <?php echo Formbuilder::message_render();?>
+(примерное место 
+
+
+</div><!-- Конец второй навигации -->
+<?php } if (isset($_message)): ?>
+    <div id="msgbox" class="box-information"><?php echo $_message; ?></div>
+    <script>
+        $(document).ready(function() {
+            $("#msgbox").show().delay(5000).fadeOut();
+        });
+    </script>
+<?php endif; ?>
+<?php echo Formbuilder::message_render();?>
+)
+
+Примечание:
+Если нужно развернуть модуль на другом сайте, то в файле modules/formbuilder/assets/js/main-built.js
+нужно заменить всё ссылки http://axes.tadzhibaev.com на url нового сайта где 
+разворачивается модуль

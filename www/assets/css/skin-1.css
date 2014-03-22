@@ -1,0 +1,6 @@
+body {
+	background: #fff center top repeat-x;
+}
+#topA {position: absolute;}
+#nav42 ul ul{clear:both;position:absolute;margin-top:40px;background:#fff;}
+#nav42 ul ul li{width:190px;z-index:9977!important;margin-left:-2px;display:block;}

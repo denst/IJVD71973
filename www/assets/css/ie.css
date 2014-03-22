@@ -1,0 +1,42 @@
+#nav ul ul li {
+	*display: inline;
+}
+
+#content form fieldset input,
+#content form fieldset textarea {
+	padding: 12px 20px 0 5px;
+}
+
+#content form input {
+	height: 30px;
+}
+
+#content form p.spam input {
+	height: 30px;
+}
+
+#loginForm input {
+	padding-top: 7px;
+	height: 19px;
+}
+
+#loginForm button {
+	padding: 0;
+	margin-top: 0px;
+	height: 29px;
+	*margin-top: 1px; /* ONLY IE7 */
+	*height: 29px; /* ONLY IE7 */
+	width: 50px;
+}
+.servicemenu {
+filter:none;
+}
+.servicemenu:hover {
+filter:none;
+}
+
+.clients.grid li {
+	height: 255px;
+
+}
+.hrclub-item h2 {font-size:28px;text-align:left;font-family: 'Arial', sans-serif;font-style:italic;}

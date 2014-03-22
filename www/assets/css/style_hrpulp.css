@@ -1,0 +1,61 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html {
+}
+body {
+	font: 12px/18px Tahoma, Verdana, sans-serif;
+	width: 100%;
+	height: 100%;
+}
+a {
+	color: blue;
+	outline: none;
+	text-decoration: underline;
+}
+a:hover {
+	text-decoration: none;
+}
+p {
+	margin: 0 0 18px
+}
+img {
+	border: none;
+}
+input {
+	vertical-align: middle;
+}
+#wrapper {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+
+/* Header
+-----------------------------------------------------------------------------*/
+#header {
+	height: 232px;
+	margin-top: 34px;
+	background: none;
+}
+
+
+/* Middle
+-----------------------------------------------------------------------------*/
+#content {
+	padding: 0 0 34px;
+}
+
+
+
+
+/* Footer
+-----------------------------------------------------------------------------*/
+#footer {
+	width: 1000px;
+	margin: -34px auto 0;
+	height: 34px;
+	background: none;
+	position: relative;
+}

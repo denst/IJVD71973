@@ -1,0 +1,20 @@
+* {
+    font-family: Tahoma, Arial;
+}
+
+
+body {
+    padding-top: 50px;
+}
+
+.page-header {
+    margin: 0px;
+    padding: 0px;
+}
+
+.checkbox_container {
+    border: 2px solid #ccc;
+    width: 300px;
+    height: 100px;
+    overflow-y: scroll;
+}

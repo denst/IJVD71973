@@ -1,0 +1,8 @@
+.error{
+    border-color: #b94a48 !important;
+}
+
+.email-error, .input-error {
+    margin-bottom: 10px;
+    color: #b94a48;
+}

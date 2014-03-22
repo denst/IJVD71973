@@ -1,0 +1,77 @@
+/* Moscow City HardCore 2012 - Ruben Akopyan - rubenakopyan.com */
+
+a {	color: #0066ff;	text-decoration: underline;}
+a:hover {text-decoration: none;color:#333;}
+/* HEADINGS */
+
+h1, h2, h3, h4, h5, h6 {margin: 10px 0;font-family: 'Ubuntu', Trebuchet MS, Arial, sans-serif;color: #222;}
+h1 {font-size: 28px;}
+h2 {font-size: 24px;}
+h3 {font-size: 22px;}
+h6 {font-size: 14px;}
+
+#column h6 {font-family: 'Ubuntu', Trebuchet MS, Arial, sans-serif;}
+#column h4 {width: 310px;font-size: 18px;clear: both;border-bottom: 3px solid #ff6600;}
+/* DEFAULT CONTENT CSS */
+p {line-height: 22px;font-size: 14px;color: #000;font-family: 'Ubuntu', Trebuchet MS, Arial, sans-serif;margin-bottom:9px;}
+/* ����������� */
+.hr {height: 8px;border-top: 1px solid #ccc;	margin:21px 0px 21px 0px;clear: both;}
+.hr2 {height: 1px;border-top: 1px solid #ccc;margin:13px 0px 13px 0px;clear: both;}
+.hrnoline {height: 13px;	margin:5px;clear: both;border:0px;background: none;}
+.hrnolinesol {height:5px;margin:0px;	clear: both;border:0px;background: none;}
+.hrshadow {height: 25px;clear: both;	margin-bottom: 13px;margin-top: 34px;border:0px;background: url('../images/hrshadow.png') repeat-x;}	
+.hrsuper {clear: both;border-top:1px #ddd solid;bottom:3px;position:relative;margin-bottom:13px;}
+.hr.noline {background: none;}
+
+blockquote p {font-family: georgia;font-size: 12px;line-height: 20px;color: #777777;clear: both;}
+blockquote p cite {display: block;text-align: right;padding-top: 3px;}
+.article-sep {height: 20px;background: none;	margin: 0 30px;clear: both;}
+
+/* FORM CSS */
+form p {margin: 0;padding: 0;}
+form fieldset input[type="text"],form fieldset input[type="password"],
+form fieldset textarea {	background-color: #ffffff;border: 1px solid #c6c6c6;margin-bottom: 8px;width: 265px;color: #757575;font-family: 'Ubuntu', Trebuchet MS, Arial, sans-serif;font-size: 110%;padding: 1px 20px 0 5px;-webkit-border-radius: 8px;-moz-border-radius: 8px;border-radius: 8px;-webkit-transition-property: border-color;-webkit-transition-duration: 0.2s;}
+form fieldset input:hover,form fieldset textarea:hover {background-color: #ffffff;border-color: rgba(82, 168, 236, 0.8);-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);outline: 0;outline: thin dotted \9;}
+form input {height: 35px;}
+form fieldset input.LV_invalid_field,form fieldset textarea.LV_invalid_field,form p.spam input.LV_invalid_field {border: 1px solid #d5d5d5;}
+form select {height: 37px;width: 320px;color: #757575;font-family: 'Ubuntu', Trebuchet MS, Arial, sans-serif;font-size: 110%;border: 1px solid #d5d5d5;padding: 5px 0px 0 10px;-webkit-border-top-left-radius: 8px;-webkit-border-bottom-left-radius: 8px;-moz-border-radius-topleft: 8px;-moz-border-radius-bottomleft: 8px;border-top-left-radius: 8px;border-bottom-left-radius: 8px;behavior: url('../border-radius.htc');border-color: #d5d5d5;-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);-webkit-transition: border linear 0.2s, box-shadow linear 0.2s;-moz-transition: border linear 0.2s, box-shadow linear 0.2s;-ms-transition: border linear 0.2s, box-shadow linear 0.2s;-o-transition: border linear 0.2s, box-shadow linear 0.2s;transition: border linear 0.2s, box-shadow linear 0.2s;}
+form select:hover {background-color: #ffffff;border-color: #d5d5d5;-webkit-box-shadow: 0 0 6px #7aba7b;-moz-box-shadow: 0 0 6px #7aba7b;ox-shadow: 0 0 6px #7aba7b;}
+form select:focus {border-color: rgba(82, 168, 236, 0.8);-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);outline: 0;outline: thin dotted \9;}
+form fieldset p.spam .LV_validation_message {display: none;}
+form fieldset textarea {height: 100px;width: 560px;padding-top: 5px;margin-top:8px;clear:both;}
+form fieldset,#footer form fieldset {padding-bottom: 5px;}
+
+/* ��������� � ������� ������ */
+a.start {margin-top:15px;padding-bottom:34px;cursor: pointer;font-size:34px;	background: url('../images/icons/arrowdown.png') bottom no-repeat;color:#660066;min-width:422px;}
+a.startnew {text-decoration:underline;clear:both;font-style:italic;font-weight:800;padding-bottom:34px;cursor: pointer;font-size:34px;background: url('../images/icons/arrowdown.png') bottom no-repeat;color:#4E0A64;min-width:422px;}
+a.startnew:hover {text-decoration:none;color:#4E0A64;}
+a.startup {margin-top:15px;padding-bottom:34px;cursor: pointer;font-size:34px;background: url('../images/icons/arrowup.png') bottom no-repeat;color:#660066;min-width:422px;}
+a.start2 {margin-top:15px;padding-bottom:3px;cursor: pointer;font-size:34px;color:#660066;min-width:422px;border-bottom:1px #0076a3 dashed;}
+a.start2:hover {border-bottom:1px #0076a3 solid;}
+span.backtotop {float: right;cursor: pointer;background-color: #ccc;-webkit-border-radius: 5px;-moz-bodius:5px;border-radius: 5px;padding: 3px 8px;color: #ffffff;text-transform: uppercase;font-size: 10px;	margin-right: 50%;margin-bottom: 21px;}
+span.copy {float: left;background-color: #666066;-webkit-border-top-right-radius: 5px;-webkit-border-bottom-right-radius: 5px;-moz-border-radius-topright: 5px;-moz-border-radius-bottomright: 5px;border-top-right-radius: 5px;border-bottom-right-radius: 5px;padding: 3px 8px;color: #ffffff;text-transform: uppercase;font-size: 10px;margin-right: 50%;margin-bottom: 21px;}
+
+/* TOOLTIP CSS */
+.tipsy { padding: 5px; font-size: 14px; position: absolute; z-index: 100000;}
+.tipsy-inner { padding: 5px 8px 4px 8px; background-color: black; color: white; max-width: 400px; text-align: center;}
+.tipsy-inner { border-radius: 3px; -moz-border-radius:3px; -webkit-border-radius:3px; }
+.tipsy-arrow { position: absolute; background: url('../images/general/tipsy.gif') no-repeat top left; width: 9px; height: 5px; }
+.tipsy-n .tipsy-arrow { top: 0; left: 50%; margin-left: -4px; }
+.tipsy-nw .tipsy-arrow { top: 0; left: 10px; }
+.tipsy-ne .tipsy-arrow { top: 0; right: 10px; }
+.tipsy-s .tipsy-arrow { bottom: 0; left: 50%; margin-left: -4px; background-position: bottom left; }
+.tipsy-sw .tipsy-arrow { bottom: 0; left: 10px; background-position: bottom left; }
+.tipsy-se .tipsy-arrow { bottom: 0; right: 10px; background-position: bottom left; }
+.tipsy-e .tipsy-arrow { top: 50%; margin-top: -4px; right: 0; width: 5px; height: 9px; background-position: top right; }
+.tipsy-w .tipsy-arrow { top: 50%; margin-top: -4px; left: 0; width: 5px; height: 9px; }
+
+.arcivetable {width: 100%;}
+.arcivetable td {padding:13px 5px 13px 5px;border:1px solid #f2f2f2;}
+.arcivetable tr:hover {background:#f1f1f1;border:1px solid #ffffff;}
+
+#update {position:absolute;top:0;left:0;background:#a00;color:#ff0;text-decoration:blink;width:100%;height:100%;display:none;font-size:80px;text-align:center;}
+
+/* ReCaptcha CSS */
+input#recaptcha_response_field{
+    height: 30px !important;
+}

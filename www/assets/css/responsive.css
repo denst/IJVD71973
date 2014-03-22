@@ -1,0 +1,98 @@
+
+/*Styles for screen 950px and lower*/
+@media screen and (max-width: 950px) {
+	#topA { 
+  		position:relative;
+		background-color:#fff;
+  	}
+	#top { 
+  		height: auto;
+		max-width: 950px;min-width: 816px;
+  	}
+	#wrapper{max-width: 900px;min-width: 816px;}
+	#content{max-width: 950px;min-width: 816px;}
+	#navsec ul     { display: none; }
+    #navsec select { display: inline-block; width:100%;float:left; }
+	#navsec con  { display: none !important; }
+	
+	.full-page {width:800px;}
+	#navsec {width: 800px;}
+	#logosmall  {position:fixed; z-index:999;right:5px;}
+  	#top ul {width: 100%;
+  		display: block;
+  		height: auto;
+		margin-top:0px;
+		background-color:#fafafa;background-image:-moz-linear-gradient(top, #ffffff, #f2f2f2);
+background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#f2f2f2));
+background-image:-webkit-linear-gradient(top, #ffffff, #f2f2f2);
+background-image:-o-linear-gradient(top, #ffffff, #f2f2f2);
+background-image:linear-gradient(to bottom, #ffffff, #f2f2f2);
+background-repeat:repeat-x;
+-webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
+-moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
+box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
+border-bottom:1px solid #dedede;
+  	}
+  	#top li {
+  		width: 40%;
+  		float: left;
+  		position: relative;
+  	}
+
+  	#top a {
+	  	text-align: left;
+	  	width: 100%;
+	  	text-indent: 25px;
+  	}
+	#navsec h2 {display:none;}
+}
+
+
+
+/*Styles for screen 515px and lower*/
+@media only screen and (max-width : 815px) {
+
+	#top {
+		border-bottom: 0;
+	}
+	
+	#top ul {
+		display: none;
+		height: auto;
+	}
+#top li {
+  		width: 55%;
+  		float: left;
+  		position: relative;
+  	}
+
+	#top a#pull {
+		display: block;
+		width: 100%;
+		position: relative;
+		
+	}
+	#top a#pull:after {
+		content:"";
+		background: url('nav-icon.png') no-repeat;
+		width: 30px;
+		height: 30px;
+		display: inline-block;
+		position: absolute;
+		right: 15px;
+		top: 10px;
+	}
+	#navsec select { display: inline-block; max-width:810px; min-width:482px; }
+	#navsec con  { display: none !important; }
+	
+}
+
+/*Smartphone*/
+@media only screen and (max-width : 480px) {
+	#top li {
+		display: block;
+		float: none;
+		width: 100%;
+	}
+	#navsec select { display: inline-block; max-width:480px; min-width:320px; }
+}

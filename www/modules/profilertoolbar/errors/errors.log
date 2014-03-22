@@ -1,0 +1,188 @@
+[20-Sep-2013 10:59:29 America/Chicago] ------------------------------------------------------
+[20-Sep-2013 10:59:29 America/Chicago] deactivate -  - //fastspring/deactivate
+[20-Sep-2013 10:59:29 America/Chicago] ------------------------------------------------------
+[20-Sep-2013 10:59:29 America/Chicago] post - <pre class="debug"><small>array</small><span>(9)</span> <span>(
+    "SubscriptionQuantity" => <small>string</small><span>(1)</span> "1"
+    "SubscriptionCustomerUrl" => <small>string</small><span>(65)</span> "https://sites.fastspring.com/smplle/order/s/SMP130920-9055-59170S"
+    "SubscriptionIsTest" => <small>string</small><span>(4)</span> "true"
+    "totalPrice" => <small>string</small><span>(3)</span> "6.0"
+    "SubscriptionEndDate" => <small>string</small><span>(0)</span> ""
+    "subscription_ref" => <small>string</small><span>(21)</span> "SMP130920-9055-93159S"
+    "customer_ref" => <small>string</small><span>(2)</span> "41"
+    "security_data" => <small>string</small><span>(34)</span> "1379690638915SMP130920-9055-93159S"
+    "security_hash" => <small>string</small><span>(32)</span> "0fa909c42779bac49983e6e7271b1048"
+)</span></pre> - //fastspring/deactivate
+[23-Sep-2013 02:24:57 America/Chicago] ------------------------------------------------------
+[23-Sep-2013 02:24:57 America/Chicago] deactivate -  - //fastspring/deactivate
+[23-Sep-2013 02:24:58 America/Chicago] ------------------------------------------------------
+[23-Sep-2013 02:24:58 America/Chicago] post - <pre class="debug"><small>array</small><span>(8)</span> <span>(
+    "SubscriptionCustomerUrl" => <small>string</small><span>(65)</span> "https://sites.fastspring.com/smplle/order/s/SMP130920-9055-89224S"
+    "SubscriptionReference" => <small>string</small><span>(21)</span> "SMP130920-9055-83194S"
+    "SubscriptionQuantity" => <small>string</small><span>(1)</span> "1"
+    "SubscriptionEndDate" => <small>string</small><span>(12)</span> "Sep 20, 2013"
+    "SubscriptionIsTest" => <small>string</small><span>(4)</span> "true"
+    "customer_ref" => <small>string</small><span>(2)</span> "41"
+    "security_data" => <small>string</small><span>(34)</span> "1379690638915SMP130920-9055-93159S"
+    "security_hash" => <small>string</small><span>(32)</span> "0fa909c42779bac49983e6e7271b1048"
+)</span></pre> - //fastspring/deactivate
+[23-Sep-2013 03:21:54 America/Chicago] ------------------------------------------------------
+[23-Sep-2013 03:21:54 America/Chicago] deactivate -  - //fastspring/deactivate
+[23-Sep-2013 03:21:55 America/Chicago] ------------------------------------------------------
+[23-Sep-2013 03:21:55 America/Chicago] post - <pre class="debug"><small>array</small><span>(8)</span> <span>(
+    "SubscriptionCustomerUrl" => <small>string</small><span>(65)</span> "https://sites.fastspring.com/smplle/order/s/SMP130920-9055-89224S"
+    "SubscriptionReference" => <small>string</small><span>(21)</span> "SMP130920-9055-83194S"
+    "SubscriptionQuantity" => <small>string</small><span>(1)</span> "1"
+    "SubscriptionEndDate" => <small>string</small><span>(12)</span> "Sep 20, 2013"
+    "SubscriptionIsTest" => <small>string</small><span>(4)</span> "true"
+    "customer_ref" => <small>string</small><span>(2)</span> "41"
+    "security_data" => <small>string</small><span>(34)</span> "1379690638915SMP130920-9055-93159S"
+    "security_hash" => <small>string</small><span>(32)</span> "0fa909c42779bac49983e6e7271b1048"
+)</span></pre> - //fastspring/deactivate
+[23-Sep-2013 03:21:57 America/Chicago] ------------------------------------------------------
+[23-Sep-2013 03:21:57 America/Chicago] in if -  - //fastspring/deactivate
+[23-Sep-2013 04:55:11 America/Chicago] ------------------------------------------------------
+[23-Sep-2013 04:55:11 America/Chicago] deactivate -  - //fastspring/deactivate
+[23-Sep-2013 04:55:11 America/Chicago] ------------------------------------------------------
+[23-Sep-2013 04:55:11 America/Chicago] post - <pre class="debug"><small>array</small><span>(8)</span> <span>(
+    "SubscriptionCustomerUrl" => <small>string</small><span>(65)</span> "https://sites.fastspring.com/smplle/order/s/SMP130920-9055-89224S"
+    "SubscriptionReference" => <small>string</small><span>(21)</span> "SMP130920-9055-83194S"
+    "SubscriptionQuantity" => <small>string</small><span>(1)</span> "1"
+    "SubscriptionEndDate" => <small>string</small><span>(12)</span> "Sep 20, 2013"
+    "SubscriptionIsTest" => <small>string</small><span>(4)</span> "true"
+    "customer_ref" => <small>string</small><span>(2)</span> "41"
+    "security_data" => <small>string</small><span>(34)</span> "1379690638915SMP130920-9055-93159S"
+    "security_hash" => <small>string</small><span>(32)</span> "0fa909c42779bac49983e6e7271b1048"
+)</span></pre> - //fastspring/deactivate
+[23-Sep-2013 04:55:13 America/Chicago] ------------------------------------------------------
+[23-Sep-2013 04:55:13 America/Chicago] in if -  - //fastspring/deactivate
+[23-Sep-2013 04:56:45 America/Chicago] ------------------------------------------------------
+[23-Sep-2013 04:56:45 America/Chicago] deactivate -  - //fastspring/deactivate
+[23-Sep-2013 04:56:45 America/Chicago] ------------------------------------------------------
+[23-Sep-2013 04:56:45 America/Chicago] post - <pre class="debug"><small>array</small><span>(8)</span> <span>(
+    "SubscriptionCustomerUrl" => <small>string</small><span>(65)</span> "https://sites.fastspring.com/smplle/order/s/SMP130920-9055-89224S"
+    "SubscriptionReference" => <small>string</small><span>(21)</span> "SMP130920-9055-83194S"
+    "SubscriptionQuantity" => <small>string</small><span>(1)</span> "1"
+    "SubscriptionEndDate" => <small>string</small><span>(12)</span> "Sep 20, 2013"
+    "SubscriptionIsTest" => <small>string</small><span>(4)</span> "true"
+    "customer_ref" => <small>string</small><span>(2)</span> "41"
+    "security_data" => <small>string</small><span>(34)</span> "1379690638915SMP130920-9055-93159S"
+    "security_hash" => <small>string</small><span>(32)</span> "0fa909c42779bac49983e6e7271b1048"
+)</span></pre> - //fastspring/deactivate
+[23-Sep-2013 04:56:47 America/Chicago] ------------------------------------------------------
+[23-Sep-2013 04:56:47 America/Chicago] in if -  - //fastspring/deactivate
+[23-Sep-2013 06:02:59 America/Chicago] ------------------------------------------------------
+[23-Sep-2013 06:02:59 America/Chicago] deactivate -  - //fastspring/deactivate
+[23-Sep-2013 06:02:59 America/Chicago] ------------------------------------------------------
+[23-Sep-2013 06:02:59 America/Chicago] post - <pre class="debug"><small>array</small><span>(8)</span> <span>(
+    "SubscriptionCustomerUrl" => <small>string</small><span>(65)</span> "https://sites.fastspring.com/smplle/order/s/SMP130920-9055-89224S"
+    "SubscriptionReference" => <small>string</small><span>(21)</span> "SMP130920-9055-83194S"
+    "SubscriptionQuantity" => <small>string</small><span>(1)</span> "1"
+    "SubscriptionEndDate" => <small>string</small><span>(12)</span> "Sep 20, 2013"
+    "SubscriptionIsTest" => <small>string</small><span>(4)</span> "true"
+    "customer_ref" => <small>string</small><span>(2)</span> "41"
+    "security_data" => <small>string</small><span>(34)</span> "1379690638915SMP130920-9055-93159S"
+    "security_hash" => <small>string</small><span>(32)</span> "0fa909c42779bac49983e6e7271b1048"
+)</span></pre> - //fastspring/deactivate
+[23-Sep-2013 06:03:02 America/Chicago] ------------------------------------------------------
+[23-Sep-2013 06:03:02 America/Chicago] in if -  - //fastspring/deactivate
+[23-Sep-2013 06:04:31 America/Chicago] PHP Fatal error:  Call to private method Model_Plans_Users::blocked_publisher_ads() from context 'Controller_Fastspring' in /home/denst/www/ads/www/modules/fastspring/classes/controller/fastspring.php on line 62
+[23-Sep-2013 06:04:31 America/Chicago] PHP Stack trace:
+[23-Sep-2013 06:04:31 America/Chicago] PHP   1. {main}() /home/denst/www/ads/www/index.php:0
+[23-Sep-2013 06:04:31 America/Chicago] PHP   2. Kohana_Request->execute() /home/denst/www/ads/www/index.php:111
+[23-Sep-2013 06:04:31 America/Chicago] PHP   3. Kohana_Request_Client->execute($request = *uninitialized*) /home/denst/www/ads/www/system/classes/kohana/request.php:1138
+[23-Sep-2013 06:04:31 America/Chicago] PHP   4. Kohana_Request_Client_Internal->execute_request($request = *uninitialized*) /home/denst/www/ads/www/system/classes/kohana/request/client.php:64
+[23-Sep-2013 06:04:31 America/Chicago] PHP   5. ReflectionMethod->invoke(*uninitialized*) /home/denst/www/ads/www/system/classes/kohana/request/client/internal.php:118
+[23-Sep-2013 06:04:31 America/Chicago] PHP   6. Controller_Fastspring->action_deactivate() /home/denst/www/ads/www/system/classes/kohana/request/client/internal.php:118
+[23-Sep-2013 06:14:29 America/Chicago] ------------------------------------------------------
+[23-Sep-2013 06:14:29 America/Chicago] deactivate -  - //fastspring/deactivate
+[23-Sep-2013 06:14:30 America/Chicago] ------------------------------------------------------
+[23-Sep-2013 06:14:30 America/Chicago] post - <pre class="debug"><small>array</small><span>(8)</span> <span>(
+    "SubscriptionCustomerUrl" => <small>string</small><span>(65)</span> "https://sites.fastspring.com/smplle/order/s/SMP130920-9055-89224S"
+    "SubscriptionReference" => <small>string</small><span>(21)</span> "SMP130920-9055-83194S"
+    "SubscriptionQuantity" => <small>string</small><span>(1)</span> "1"
+    "SubscriptionEndDate" => <small>string</small><span>(12)</span> "Sep 20, 2013"
+    "SubscriptionIsTest" => <small>string</small><span>(4)</span> "true"
+    "customer_ref" => <small>string</small><span>(2)</span> "41"
+    "security_data" => <small>string</small><span>(34)</span> "1379690638915SMP130920-9055-93159S"
+    "security_hash" => <small>string</small><span>(32)</span> "0fa909c42779bac49983e6e7271b1048"
+)</span></pre> - //fastspring/deactivate
+[23-Sep-2013 06:14:32 America/Chicago] ------------------------------------------------------
+[23-Sep-2013 06:14:32 America/Chicago] in if -  - //fastspring/deactivate
+[28-Jan-2014 09:59:54 Europe/London] ------------------------------------------------------
+[28-Jan-2014 09:59:55 Europe/London] fraud - <pre class="debug"><small>array</small><span>(35)</span> <span>(
+    "REDIRECT_STATUS" => <small>string</small><span>(3)</span> "200"
+    "HTTP_HOST" => <small>string</small><span>(14)</span> "tadzhibaev.loc"
+    "HTTP_CONNECTION" => <small>string</small><span>(10)</span> "keep-alive"
+    "CONTENT_LENGTH" => <small>string</small><span>(4)</span> "1494"
+    "HTTP_CACHE_CONTROL" => <small>string</small><span>(9)</span> "max-age=0"
+    "HTTP_ACCEPT" => <small>string</small><span>(63)</span> "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    "HTTP_ORIGIN" => <small>string</small><span>(21)</span> "http://tadzhibaev.loc"
+    "HTTP_USER_AGENT" => <small>string</small><span>(102)</span> "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36"
+    "CONTENT_TYPE" => <small>string</small><span>(68)</span> "multipart/form-data; boundary=----WebKitFormBoundaryJfTAfDj3OTB9p5MW"
+    "HTTP_REFERER" => <small>string</small><span>(30)</span> "http://tadzhibaev.loc/products"
+    "HTTP_ACCEPT_ENCODING" => <small>string</small><span>(17)</span> "gzip,deflate,sdch"
+    "HTTP_ACCEPT_LANGUAGE" => <small>string</small><span>(35)</span> "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+    "HTTP_COOKIE" => <small>string</small><span>(57)</span> "session=0ujfo29anv20cegris8fljenm1; _ym_visorc_13821520=w"
+    "PATH" => <small>string</small><span>(28)</span> "/usr/local/bin:/usr/bin:/bin"
+    "SERVER_SIGNATURE" => <small>string</small><span>(75)</span> "&lt;address&gt;Apache/2.2.22 (Ubuntu) Server at tadzhibaev.loc Port 80&lt;/address&gt;
+"
+    "SERVER_SOFTWARE" => <small>string</small><span>(22)</span> "Apache/2.2.22 (Ubuntu)"
+    "SERVER_NAME" => <small>string</small><span>(14)</span> "tadzhibaev.loc"
+    "SERVER_ADDR" => <small>string</small><span>(9)</span> "127.0.0.1"
+    "SERVER_PORT" => <small>string</small><span>(2)</span> "80"
+    "REMOTE_ADDR" => <small>string</small><span>(9)</span> "127.0.0.1"
+    "DOCUMENT_ROOT" => <small>string</small><span>(30)</span> "/home/denst/www/tadzhibaev/www"
+    "SERVER_ADMIN" => <small>string</small><span>(18)</span> "[no address given]"
+    "SCRIPT_FILENAME" => <small>string</small><span>(40)</span> "/home/denst/www/tadzhibaev/www/index.php"
+    "REMOTE_PORT" => <small>string</small><span>(5)</span> "39010"
+    "REDIRECT_QUERY_STRING" => <small>string</small><span>(19)</span> "kohana_uri=products"
+    "REDIRECT_URL" => <small>string</small><span>(9)</span> "/products"
+    "GATEWAY_INTERFACE" => <small>string</small><span>(7)</span> "CGI/1.1"
+    "SERVER_PROTOCOL" => <small>string</small><span>(8)</span> "HTTP/1.1"
+    "REQUEST_METHOD" => <small>string</small><span>(4)</span> "POST"
+    "QUERY_STRING" => <small>string</small><span>(19)</span> "kohana_uri=products"
+    "REQUEST_URI" => <small>string</small><span>(9)</span> "/products"
+    "SCRIPT_NAME" => <small>string</small><span>(10)</span> "/index.php"
+    "PHP_SELF" => <small>string</small><span>(10)</span> "/index.php"
+    "REQUEST_TIME_FLOAT" => <small>float</small> 1390903194,712
+    "REQUEST_TIME" => <small>integer</small> 1390903194
+)</span></pre> - /common/static/index
+[28-Jan-2014 10:45:19 Europe/London] ------------------------------------------------------
+[28-Jan-2014 10:45:19 Europe/London] fraud - <pre class="debug"><small>array</small><span>(35)</span> <span>(
+    "REDIRECT_STATUS" => <small>string</small><span>(3)</span> "200"
+    "HTTP_HOST" => <small>string</small><span>(14)</span> "tadzhibaev.loc"
+    "HTTP_CONNECTION" => <small>string</small><span>(10)</span> "keep-alive"
+    "CONTENT_LENGTH" => <small>string</small><span>(3)</span> "977"
+    "HTTP_CACHE_CONTROL" => <small>string</small><span>(9)</span> "max-age=0"
+    "HTTP_ACCEPT" => <small>string</small><span>(63)</span> "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    "HTTP_ORIGIN" => <small>string</small><span>(21)</span> "http://tadzhibaev.loc"
+    "HTTP_USER_AGENT" => <small>string</small><span>(102)</span> "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36"
+    "CONTENT_TYPE" => <small>string</small><span>(68)</span> "multipart/form-data; boundary=----WebKitFormBoundaryS4SFfigOnrFVRB89"
+    "HTTP_REFERER" => <small>string</small><span>(30)</span> "http://tadzhibaev.loc/products"
+    "HTTP_ACCEPT_ENCODING" => <small>string</small><span>(17)</span> "gzip,deflate,sdch"
+    "HTTP_ACCEPT_LANGUAGE" => <small>string</small><span>(35)</span> "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+    "HTTP_COOKIE" => <small>string</small><span>(57)</span> "session=366g5mc8qt8l9saafafqj78s31; _ym_visorc_13821520=w"
+    "PATH" => <small>string</small><span>(28)</span> "/usr/local/bin:/usr/bin:/bin"
+    "SERVER_SIGNATURE" => <small>string</small><span>(75)</span> "&lt;address&gt;Apache/2.2.22 (Ubuntu) Server at tadzhibaev.loc Port 80&lt;/address&gt;
+"
+    "SERVER_SOFTWARE" => <small>string</small><span>(22)</span> "Apache/2.2.22 (Ubuntu)"
+    "SERVER_NAME" => <small>string</small><span>(14)</span> "tadzhibaev.loc"
+    "SERVER_ADDR" => <small>string</small><span>(9)</span> "127.0.0.1"
+    "SERVER_PORT" => <small>string</small><span>(2)</span> "80"
+    "REMOTE_ADDR" => <small>string</small><span>(9)</span> "127.0.0.1"
+    "DOCUMENT_ROOT" => <small>string</small><span>(30)</span> "/home/denst/www/tadzhibaev/www"
+    "SERVER_ADMIN" => <small>string</small><span>(18)</span> "[no address given]"
+    "SCRIPT_FILENAME" => <small>string</small><span>(40)</span> "/home/denst/www/tadzhibaev/www/index.php"
+    "REMOTE_PORT" => <small>string</small><span>(5)</span> "39943"
+    "REDIRECT_QUERY_STRING" => <small>string</small><span>(19)</span> "kohana_uri=products"
+    "REDIRECT_URL" => <small>string</small><span>(9)</span> "/products"
+    "GATEWAY_INTERFACE" => <small>string</small><span>(7)</span> "CGI/1.1"
+    "SERVER_PROTOCOL" => <small>string</small><span>(8)</span> "HTTP/1.1"
+    "REQUEST_METHOD" => <small>string</small><span>(4)</span> "POST"
+    "QUERY_STRING" => <small>string</small><span>(19)</span> "kohana_uri=products"
+    "REQUEST_URI" => <small>string</small><span>(9)</span> "/products"
+    "SCRIPT_NAME" => <small>string</small><span>(10)</span> "/index.php"
+    "PHP_SELF" => <small>string</small><span>(10)</span> "/index.php"
+    "REQUEST_TIME_FLOAT" => <small>float</small> 1390905919,753
+    "REQUEST_TIME" => <small>integer</small> 1390905919
+)</span></pre> - /common/static/index

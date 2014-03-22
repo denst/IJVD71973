@@ -1,0 +1,6 @@
+body {
+	background: #fff center top repeat-x;
+}
+#topA {position: fixed;}
+#nav42 ul  ul{clear:both;position:fixed;margin-top:36px; background:#fff;z-index:9999;}
+#nav42 ul  ul li{}
